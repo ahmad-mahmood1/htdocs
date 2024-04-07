@@ -1,3 +1,3 @@
 <?php
-wp_redirect(site_url("wp-admin"));
+wp_redirect(site_url('wp-admin'));
 exit;
